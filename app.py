@@ -44,7 +44,6 @@ def predict():
 		humidity9am = float(request.form['humidity9am'])
 		# Humidity 3pm
 		humidity3pm = float(request.form['humidity3pm'])
-		# Pressure 9am
 		pressure9am = float(request.form['pressure9am'])
 		# Pressure 3pm
 		pressure3pm = float(request.form['pressure3pm'])
