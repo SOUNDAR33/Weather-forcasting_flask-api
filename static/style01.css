@@ -1,0 +1,12 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/set-weather-icons_1308-130316.jpg?t=st=1740731784~exp=1740735384~hmac=18d07e9fa5255048d999f5aea67392cbb8013ebc19ad348817ed4d22eba922d4&w=900');
+    background-size: cover; /* Makes the background image cover the entire page */
+    background-position: center; /* Centers the background image */
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-size: 2rem; /* Fixed the space between the value and unit */
+    font-weight: bold;
+    color: #fff; /* Added a white color to make the text readable on top of the background */
+}

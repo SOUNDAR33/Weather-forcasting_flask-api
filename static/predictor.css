@@ -1,0 +1,23 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/set-weather-icons_1308-130316.jpg?t=st=1740731784~exp=1740735384~hmac=18d07e9fa5255048d999f5aea67392cbb8013ebc19ad348817ed4d22eba922d4&w=900');
+    background-size: cover; /* Makes the background image cover the entire page */
+    background-position: center; /* Centers the background image */
+    font-family: 'Poppins', sans-serif;
+}
+.form {
+    background-color: white;
+    width: 70vw;
+    margin: 50px auto;
+    padding: 20px 50px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+    border-radius: 12px;
+}
+.form h1 {
+    color: #ff0000;
+}
+
+.button {
+    
+    padding: 5px 30px;
+    font-size: 18px;
+}
